@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Yuto Kamiwaki</h1>
 <h3 align="center">An AgTech/FoodTech Engineer from Japan</h3>
 
+- 🔭 I’m currently working on **CULTA Inc.(Engineer) and Bio-Production Tech Lab(President)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yu10_kami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yu10_kami" height="30" width="40" /></a>

@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yuto Kamiwaki</h1>
 <h3 align="center">An AgTech/FoodTech Engineer from Japan</h3>
 
-- 🔭 I’m currently working on **CULTA Inc.(Engineer) and Bio-Production Tech Lab(President)**
+- 🔭 I’m currently working on **Bio-Production Tech Lab(President, Engineer)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Yuto Kamiwaki</h1>
-<h3 align="center">An AgTech/FoodTech Engineer from Japan</h3>
+<h3 align="center">An AgTech/FishTech/FoodTech Data Scientist, Engineer from Japan</h3>
 
-- 🔭 I’m currently working on **Bio-Production Tech Lab(President, Engineer)**
+- 🧑‍🎓 I’m a **Ph.D student at Tokyo University of Agriculture and Technology(TUAT) and doing research on Agricultural Informatics**
+- 🔭 I’m currently working on **Bio-Production Tech Lab(President, Data Scientist, Engineer)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

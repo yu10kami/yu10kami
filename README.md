@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Yuto Kamiwaki</h1>
 <h3 align="center">An AgTech/FishTech/FoodTech Data Scientist, Engineer from Japan</h3>
 

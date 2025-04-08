@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yuto Kamiwaki</h1>
+<h1 align="center">Hi 👋, I'm Yuto Kamiwaki, Ph. D.</h1>
 <h3 align="center">A Data Scientist, Engineer from Japan</h3>
 
-- 🧑‍🎓 I’m currently working on **SCI Research Institute(President, Data Scientist, Engineer)**
+🧑‍🎓 I’m currently working on
+  -   **SCI Research Institute(President, Data Scientist, Engineer)**
+  -   **Tokyo University of Agriculture and Technology(Assistant Professor)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
